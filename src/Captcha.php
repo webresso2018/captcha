@@ -1,5 +1,5 @@
 <?php
-namespace Webresso\SecurityKit;
+namespace webresso\securitykit;
 
 
 /**

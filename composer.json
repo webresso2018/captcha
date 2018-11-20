@@ -18,7 +18,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Webresso\\SecurityKit\\": "src/"
+            "webresso\\securitykit\\": "src/"
         }
     }
 }
