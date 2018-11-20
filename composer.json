@@ -1,0 +1,24 @@
+{
+    "name": "Webresso/SecurityKit",
+    "description": "This is a library for generating captcha and other security issues.",
+    "keywords": ["captcha", "security", "php"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "A.Karim",
+            "email": "webresso@gmail.com"
+        }
+    ],
+    "type": "project",
+    "require": {
+		"php": ">=5.3"
+    },
+    "require-dev": {
+		"phpunit/phpunit": "6.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Webresso\\SecurityKit\\": "src/"
+        }
+    }
+}
